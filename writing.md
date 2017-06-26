@@ -14,5 +14,5 @@ In consideration for this role, your challenge is to write a short piece (500 wo
 ## Some examples of pieces we love
 
 - [Crunch - The New Yorker](http://www.newyorker.com/magazine/2011/11/21/crunch)
-- [The Man Who Helped Turn Toronto Into a High-Tech Hotbed - New York Times](https://share.viewedit.com/gsMaraSVsbCtowP5TtJJNa)
+- [The Man Who Helped Turn Toronto Into a High-Tech Hotbed - New York Times](https://www.nytimes.com/2017/06/23/world/canada/the-man-who-helped-turn-toronto-into-a-high-tech-hotbed.html)
 - [My Family's Slave - The Atlantic](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/)
