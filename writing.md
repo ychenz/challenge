@@ -15,7 +15,7 @@ In consideration for this role, your challenge is to write a short piece (500 wo
 - [Crunch - The New Yorker](http://www.newyorker.com/magazine/2011/11/21/crunch)
 
 ## Example topics you can expect to write about
-- _The history of customer support
+- _The history of customer support_
 - _Profiling how Uber is designing the support experience for its autonomous vehicles_
 - _How to measure customer effort–and why you should be_
 - _Artifical intelligence is a job creator_ 
