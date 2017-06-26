@@ -1,5 +1,4 @@
 # Writing Challenge
-
 Ada Support makes complicated machine learning tools accessible to non-technical support teams (watch our video [here)](https://adasupport.wistia.com/medias/y8vmlr5taz). Since artificial intelligence software is new to most, we see a strong opportunity to produce a digital publication that educates a general audience about artificial intelligence technology's current and future impact. In spite of a journalistic world that is increasingly filled with shallow listicles, our goal is to make this publication among the highest-quality and most thought-provoking on the internet.  
 
 As an Ada Support Writer, and one of the first members of this team, your job will be to produce compelling content for this publication that educates, instills trust, and delights. We look forward to supporting you as you express your own research, style, and opinions. 
@@ -12,7 +11,12 @@ In consideration for this role, your challenge is to write a short piece (500 wo
 - Delighftful: to what extent does your piece provide a unique voice and / or viewpoint that leaves the reader wanting to read more?
  
 ## Some examples of pieces we love
-
-- [Crunch - The New Yorker](http://www.newyorker.com/magazine/2011/11/21/crunch)
 - [The Man Who Helped Turn Toronto Into a High-Tech Hotbed - New York Times](https://www.nytimes.com/2017/06/23/world/canada/the-man-who-helped-turn-toronto-into-a-high-tech-hotbed.html)
-- [My Family's Slave - The Atlantic](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/)
+- [Crunch - The New Yorker](http://www.newyorker.com/magazine/2011/11/21/crunch)
+
+## Example topics you can expect to write about
+- _The history of customer support
+- _Profiling how Uber is designing the support experience for its autonomous vehicles_
+- _How to measure customer effort–and why you should be_
+- _Artifical intelligence is a job creator_ 
+- _What makes a chat bot successful?_
