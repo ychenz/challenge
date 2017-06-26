@@ -7,9 +7,9 @@ As an Ada Support Writer, and one of the first members of this team, your job wi
 In consideration for this role, your challenge is to write a short piece (500 words max) that responds to the question: "What is the future of customer support?". Please submit your efforts to [Nick](mailto:nick@ada.support) and don't hesitate to reach out if you have any questions 😊 
 
 ## What we're looking for 
--Educational: to what extent does your piece teach the reader something new and afford them a new perspective? Is it likely to be perceived as a "secret to be shared?"
--Trustworthy: to what extent does your piece position Ada as a trustworthy and professional organization? Is it of high-integrity and are sources cited? 
--Delighftful: to what extent does your piece provide a unique voice and / or viewpoint that leaves the reader wanting to return?
+- Educational: to what extent does your piece teach the reader something new and afford them a new perspective? Is it likely to be perceived as a "secret to be shared?"
+- Trustworthy: to what extent does your piece position Ada as a trustworthy and professional organization? Is it of high-integrity and are sources cited? 
+- Delighftful: to what extent does your piece provide a unique voice and / or viewpoint that leaves the reader wanting to return?
  
 ## Some examples of pieces we love
 
