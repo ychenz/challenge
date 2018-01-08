@@ -1,6 +1,6 @@
 # People Ops Challenge
 
-Your responsibilities as Ada's first People Ops team member include recruitment, office management, and employee onboarding. This challenge focuses on your third key responsibility.
+Your responsibilities as Ada's first People Ops team member include leading recruitment, office management, and employee onboarding. This challenge focuses on your third key responsibility.
 
 ## Problem
 Ada's team is growing quickly and new team members are not getting the same attention as early members were. As a result, it's taking too long for new members to learn about Ada's culture, meet all team members, and ultimately be a productive and happy member of the team.
