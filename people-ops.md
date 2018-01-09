@@ -3,7 +3,7 @@
 Your responsibilities as Ada's first People Ops team member include leading recruitment, office management, and employee onboarding. This challenge focuses on your third key responsibility.
 
 ## Problem
-Ada is comprised of 6 teams that work closely together to solve problems and push the company forward. But as our team is growing quickly, new team members are not getting the same attention as early members were.
+Ada is comprised of 5 teams that work closely together to solve problems and push the company forward. But as our team is growing quickly, new team members are not getting the same attention as early members were.
 
 As new employees join, it's critical that we give them a strong understanding of the different teams and their cross-functional relationships. On top of this, new employees need to understand how the product works, who it works for, and why decisions were made that led its development to its current state. As of today, there is no process in place for facilitating this. Employee-onboarding has happened on an ad-hoc basis thus far. 
 
