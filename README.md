@@ -9,7 +9,7 @@ When you're finished, you should have a real-time TODO app that two or more peop
 - When we make, complete or delete a TODO item, it should show up the same way on all clients. To test this, we recommend having two browser windows open (one in-cognito and one not).
 - We're evaluating you on completion of the quest list below, but also on style. Do you commit often? Are you sticking to the principles of DRY? Did you make code and UI that _you_ would enjoy reading and using? Things like that are important to our team. 👊
 - Please make a `start` commit on your own branch so we know how long it takes you to complete the challenge. It's not a race, but we expect this to be <= a days work.
-- This should be fun! If you're stuck on a bug or something needs clarification you can [email David](mailto:david@ada.support?subject=Challenge) for help.
+- This should be fun! If you're stuck on a bug or something needs clarification you can [email Anson](mailto:anson@ada.support?subject=Challenge) for help.
 - If you prefer a functional style (or some other style of programming) feel free to switch things up to suit how you write best. We left the codebase intentionally small to support different styles/complete rewrites. Don't let how we've set things up get in the way of showing us your best work.
 
 ##  Your Quest
