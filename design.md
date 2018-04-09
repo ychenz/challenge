@@ -44,5 +44,5 @@ The point of this challenge is to help us see what your best effort is across a 
 - If your submission is accepted, you'll get to come in and meet our team, present your design to our product team and engage in an in-person design review. The review will explore your process and solution in a friendly critique. Lunch and travel expenses will be covered. We won't bite! Design reviews at Ada are friendly, thoughtful and collaborative.
 - If your submission isn't accepted, we'll give you very rich feedback on why and what we think you can improve.
 
-We can’t wait to see what you come up with! Good luck and please [email us](mailto:david@ada.support) when you’re finished.
+We can’t wait to see what you come up with! Good luck and please [email us](mailto:gillian.jose-riz@ada.support) when you’re finished.
 
