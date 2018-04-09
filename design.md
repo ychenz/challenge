@@ -40,7 +40,7 @@ The point of this challenge is to help us see what your best effort is across a 
 - Anything else that shows off your skills! ✨
 
 ## After Submission
-- We (At least [David](https://twitter.com/davehariri)) will review your design.
+- We (at least [David](https://twitter.com/davehariri)) will review your design.
 - If your submission is accepted, you'll get to come in and meet our team, present your design to our product team and engage in a fun in-person design review. The review will explore your process and solution in a friendly critique. Lunch and travel expenses will be covered.
 - If your submission isn't accepted, we'll give you very rich feedback on why and what we think you can improve.
 
