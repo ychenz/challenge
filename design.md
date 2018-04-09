@@ -32,12 +32,11 @@ You're free to follow any design process you want. If you wanted to ask question
 The point of this challenge is to help us see what your best effort is across a wide array of product design skills, but at a small scale. Your submission shouldn't take longer than a day, but it should be at least a lo-fi mock-up that a development team could implement.
 
 **Succesful submissions usually consistent of one or more of these:**
-- Some `.sketch` artboards
-- An Invision mock-up
+- Some static `.sketch` Artboards
+- An interactive prototype (Sketch, Invision, Framer etc...)
 - Slides
 - Sketches
 - Documentation
-- A Framer prototype
 - Anything else that shows off your skills! ✨
 
 ## After Submission
