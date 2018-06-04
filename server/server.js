@@ -18,7 +18,7 @@ server.on('connection', (client) => {
     // Sends a message to the client to reload all todos
     const reloadTodos = () => {
         server.emit('load', DB);
-    }
+    };
 
     // Accepts when a client makes a new todo
     client.on('make', (t) => {
