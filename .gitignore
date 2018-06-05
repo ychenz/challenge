@@ -1,1 +1,5 @@
 node_modules
+.idea
+dist
+reactjs/node_modules
+reactjs/dist
