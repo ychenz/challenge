@@ -4,7 +4,7 @@
 import React, {Component} from 'react';
 import './CardView.css';
 
-class PlainCard extends Component {
+class CardView extends Component {
 
     render() {
 
@@ -18,4 +18,4 @@ class PlainCard extends Component {
     }
 }
 
-export default PlainCard;
+export default CardView;
