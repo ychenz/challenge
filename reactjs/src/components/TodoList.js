@@ -29,19 +29,18 @@ class TodoList extends Component {
     };
 
     _handleItemDelete = (id) =>{
-        this.setState({todos:this.state.todos.filter(todo => todo.id !== id)});
         server.emit('delete', id);
     };
 
+    _handleItemDeleteAll = () =>{
+        server.emit('delete_all');
+    };
 
+    _handleItemCompleteAll = () =>{
+        server.emit('complete_all');
+    };
 
     _handleItemComplete = (id) =>{
-        console.log("Completing item with id: " + id);
-        let index = this.state.todos.findIndex(todo => todo.id === id);
-        let newTodoS = Object.assign([],this.state.todos);
-        newTodoS[index].completed = true;
-        this.setState({todos:newTodoS});
-
         server.emit('complete', id);
     };
 
@@ -66,6 +65,16 @@ class TodoList extends Component {
             this.setState({todos:newTodoS});
         });
 
+        server.on('delete_all:sync', () => {
+            this.setState({todos:[]})
+        });
+
+        server.on('complete_all:sync', () => {
+            let newTodoS = Object.assign([],this.state.todos);
+            newTodoS.forEach(todo=>todo.completed=true);
+            this.setState({todos:newTodoS});
+        });
+
         server.on('error', function(ex) {
             console.log("Oops! Failed to connect");
             console.log(ex);
@@ -83,9 +92,9 @@ class TodoList extends Component {
                            onChange={this._handleInputChange}
                            placeholder='Add todo item...' />
                     <Button.Group>
-                        <Button>Complete all</Button>
+                        <Button positive onClick={this._handleItemCompleteAll}>Complete all</Button>
                         <Button.Or text='or' />
-                        <Button negative>Delete all</Button>
+                        <Button negative onClick={this._handleItemDeleteAll}>Delete all</Button>
                     </Button.Group>
                 </div>
                 <Divider/>
